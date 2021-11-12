@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
-<h3 align="center">CYBER Enthusiast | WEB and Software Developer </h3>
+<h3 align="center">CYBER Enthusiast || WEB & Software Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_astro_fire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 ✔ I’m currently learning **Cloud Computing** & **Blender(3D)**<br>
 ✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills **Open-Source contribution**<br>
 ✔ Sometimes I write blogs articles on [WORDPRESS](https://astrofire40299681.wordpress.com/) <br>
-✔ Fun fact : *When I fell boring or in stress,I start writing quotes and also video editing,Check out My Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="bottom" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="25" width="36" /></a><br>
+✔ Fun fact : *When I feel boring or in stress,I start writing quotes and video editing,Check out My Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="25" width="36" /></a><br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
