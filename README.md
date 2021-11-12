@@ -2,7 +2,7 @@
   <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="200"/>
 </p>
 <hr>
-<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Divyansh Ojha</h1>
+<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
 <h3 align="center">CYBER Enthusiast | WEB and Software Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
