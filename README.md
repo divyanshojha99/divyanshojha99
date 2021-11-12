@@ -23,7 +23,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>𝒮𝓅𝑜𝑜𝓃 𝒻𝑒𝑒𝒹𝒾𝓃𝑔 𝒾𝓃 𝓉𝒽𝑒 𝓁𝑜𝓃𝑔 𝓇𝓊𝓃 𝓉𝑒𝒶𝒸𝒽𝑒𝓈 𝓊𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝓊𝓉 𝓉𝒽𝑒 𝓈𝒽𝒶𝓅𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝓅𝑜𝑜𝓃...</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>𝒮𝓅𝑜𝑜𝓃 𝒻𝑒𝑒𝒹𝒾𝓃𝑔 𝒾𝓃 𝓉𝒽𝑒 𝓁𝑜𝓃𝑔 𝓇𝓊𝓃 𝓉𝑒𝒶𝒸𝒽𝑒𝓈 𝓊𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝓊𝓉 𝓉𝒽𝑒 𝓈𝒽𝒶𝓅𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝓅𝑜𝑜𝓃...</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
@@ -34,10 +34,9 @@
 ✔ Pronouns: ***He/His*** or ***POLYMATH***😉 <br>
 ✔ I’m currently Developing **HDSSA** Hydrid Security Software <br>
 ✔ I’m currently learning **Cloud Computing** & **Blender(3D)**<br>
-✔ I’m Working to develop a community with all Technical Skills members and leads **Open - Source contribution**<br>
-✔ I’m looking for help ****<br>
-✔ Sometimes I write blogs articles on [WORDPRESS](https://https://astrofire40299681.wordpress.com/) <br>
-✔ Fun fact : *When I fell boring or in stress,I start writing quotes and also video editing Check out My Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="20" width="31" /></a><br>
+✔ I’m Working to develop a community of Some leads and Members with Many Advanced Technical and Non Technical Skills**Open-Source contribution**<br>
+✔ Sometimes I write blogs articles on [WORDPRESS](https://astrofire40299681.wordpress.com/) <br>
+✔ Fun fact : *When I fell boring or in stress,I start writing quotes and also video editing Check out My Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="25" width="36" /></a><br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
