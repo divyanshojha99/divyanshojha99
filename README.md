@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fteddy-bear-20669053633.html&psig=AOvVaw0GMf820UYwMPPeTFwUtkg6&ust=1636820371428000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCjzaGdk_QCFQAAAAAdAAAAABAE" height="200"/>
 </p>
 <hr>
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Divyansh Ojha</h1>
