@@ -6,10 +6,8 @@
 <h3 align="center">CYBER Enthusiast | WEB and Software Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_astro_fire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/divyansh.ojha.4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Divyansh ojha" height="30" width="40" /></a>
  <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
@@ -25,7 +23,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>𝘚𝘱𝘰𝘰𝘯 𝘧𝘦𝘦𝘥𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘦 𝘭𝘰𝘯𝘨 𝘳𝘶𝘯 𝘵𝘦𝘢𝘤𝘩𝘦𝘴 𝘶𝘴 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘣𝘶𝘵 𝘵𝘩𝘦 𝘴𝘩𝘢𝘱𝘦 𝘰𝘧 𝘵𝘩𝘦 𝘴𝘱𝘰𝘰𝘯..</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>𝒮𝓅𝑜𝑜𝓃 𝒻𝑒𝑒𝒹𝒾𝓃𝑔 𝒾𝓃 𝓉𝒽𝑒 𝓁𝑜𝓃𝑔 𝓇𝓊𝓃 𝓉𝑒𝒶𝒸𝒽𝑒𝓈 𝓊𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝓊𝓉 𝓉𝒽𝑒 𝓈𝒽𝒶𝓅𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝓅𝑜𝑜𝓃...</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
