@@ -34,10 +34,10 @@
 
 ✔ Abbreviation AA : ***ALPHA AQUARIUS*** and ***POLYMATH***😉 <br>
 ✔ I’m currently Developing **HDSSA** Hydrid Security Software <br>
-✔ I’m currently learning **Cloud Computing** & **Blender(3D)**<br>
+✔ I’m currently learning **Cloud Computing** & **Blender**<br>
 ✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills **Open-Source contribution**<br>
 ✔ Sometimes I write blog articles,Check out on <a href="https://astrofire40299681.wordpress.com/" target="blank"><img align="" src="https://github.com/divyanshojha99/PICBOX/blob/main/wordpress.png?raw=true" alt="Divyansh ojha" height="25" width="36" /></a><br>
-✔ Fun fact : *When I feel boring or in stress,I start writing quotes and video editing,Check out that stuffs on my Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="25" width="36" /></a><br>
+✔ Inner Fact : *When I feel boring or in stress,I start writing quotes and video editing,Check out that stuffs on my Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Divyansh ojha" height="25" width="36" /></a><br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
