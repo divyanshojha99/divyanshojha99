@@ -33,7 +33,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
 
-✔ Abbreviation AA : ***ALPHA AQUARIUS*** and ***POLYMATH***😉 <br>
+✔ Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
 ✔ I’m currently Developing **HDSSA** Hydrid Security Software <br>
 ✔ I’m currently learning **Cloud Computing** & **Blender**<br>
 ✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills **Open-Source contribution**<br>
