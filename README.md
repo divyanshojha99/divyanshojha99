@@ -11,6 +11,7 @@
 <a href="https://www.facebook.com/divyansh.ojha.4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Divyansh ojha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divyanshojha99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Divyansh ojha" height="30" width="40" /></a>
 <a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://simpleicons.org/icons/devpost.svg" alt="Divyansh ojha" height="30" width="40" /></a>
+<a href="https://leetcode.com/divyanshojha99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Divyansh ojha" height="30" width="40" /></a>
 <a href = "mailto: divyanshojha2003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
