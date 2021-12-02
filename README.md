@@ -71,9 +71,7 @@
 
 
 <br>
-
 <hr>
-
 Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 
 <div>
