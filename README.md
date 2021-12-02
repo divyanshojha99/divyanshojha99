@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="200"/>
+  <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="300"/>
 </p>
 <hr>
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
@@ -27,7 +27,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>𝒮𝓅𝑜𝑜𝓃 𝒻𝑒𝑒𝒹𝒾𝓃𝑔 𝒾𝓃 𝓉𝒽𝑒 𝓁𝑜𝓃𝑔 𝓇𝓊𝓃 𝓉𝑒𝒶𝒸𝒽𝑒𝓈 𝓊𝓈 𝓃𝑜𝓉𝒽𝒾𝓃𝑔 𝒷𝓊𝓉 𝓉𝒽𝑒 𝓈𝒽𝒶𝓅𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓈𝓅𝑜𝑜𝓃...</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>𝚂𝚙𝚘𝚘𝚗 𝚏𝚎𝚎𝚍𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚎 𝚕𝚘𝚗𝚐 𝚛𝚞𝚗 𝚝𝚎𝚊𝚌𝚑𝚎𝚜 𝚞𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚋𝚞𝚝 𝚝𝚑𝚎 𝚜𝚑𝚊𝚙𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚙𝚘𝚘𝚗..</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
