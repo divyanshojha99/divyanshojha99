@@ -5,14 +5,14 @@
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
 <h3 align="center">CYBER Enthusiast || WEB & Software Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
-<a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_astro_fire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.facebook.com/divyansh.ojha.4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/divyanshojha99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://simpleicons.org/icons/devpost.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://leetcode.com/divyanshojha99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href = "mailto: divyanshojha2003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="astrohere" height="40" width="40" /></a>
+<a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" alt="Divyansh ojha" height="40" width="40" /></a>
+<a href="https://www.instagram.com/the_astro_fire/" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/instagram-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
+<a href="https://www.facebook.com/divyansh.ojha.4/" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/facebook-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/divyanshojha99" target="blank"><img align="center" src="https://icons8.com/icon/mT2bzIQRdfpR/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo" alt="Divyansh ojha" height="40" width="40" /></a>
+<a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.icons8.com/color/2x/devpost.png" alt="Divyansh ojha" height="45" width="40" /></a>
+<a href="https://leetcode.com/divyanshojha99/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Divyansh ojha" height="40" width="40" /></a>
+<a href = "mailto: divyanshojha2003@gmail.com"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" height="40" width="40" /></a>
 </p>
 </p>
 
