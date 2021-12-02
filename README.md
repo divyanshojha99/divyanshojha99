@@ -30,7 +30,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>𝚂𝚙𝚘𝚘𝚗 𝚏𝚎𝚎𝚍𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚎 𝚕𝚘𝚗𝚐 𝚛𝚞𝚗 𝚝𝚎𝚊𝚌𝚑𝚎𝚜 𝚞𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚋𝚞𝚝 𝚝𝚑𝚎 𝚜𝚑𝚊𝚙𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚙𝚘𝚘𝚗..</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshojha99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=8e7cce&style=flat" alt="divyanshojha99" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
@@ -114,6 +114,9 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 </div>
 
 <hr>
+
+<h2>🌼 &nbsp;THE HEAVEN 🌼 &nbsp</h2>
+<img src="https://media4.giphy.com/media/NPP4Z7wMIf0SA/200w.webp?cid=ecf05e47bqvy8c8gykkxxvsspy8snwt8iojjawhlbhq719un&rid=200w.webp&ct=g" height="200" width="500" />
 
 
 -----
