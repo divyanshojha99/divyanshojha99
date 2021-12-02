@@ -9,8 +9,8 @@
 <a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" alt="Divyansh ojha" height="40" width="40" /></a>
 <a href="https://www.instagram.com/the_astro_fire/" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/instagram-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
 <a href="https://www.facebook.com/divyansh.ojha.4/" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/facebook-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/divyanshojha99" target="blank"><img align="center" src="https://icons8.com/icon/mT2bzIQRdfpR/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo" alt="Divyansh ojha" height="40" width="40" /></a>
-<a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.icons8.com/color/2x/devpost.png" alt="Divyansh ojha" height="45" width="40" /></a>
+<a href="https://www.hackerrank.com/divyanshojha99" target="blank"><img align="center" src="https://github.com/divyanshojha99/PICBOX/blob/main/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-24.png" alt="Divyansh ojha" height="35" width="40" /></a>
+<a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://github.com/divyanshojha99/PICBOX/blob/main/devpost-icon.png?raw=true" alt="Divyansh ojha" height="45" width="45" /></a>
 <a href="https://leetcode.com/divyanshojha99/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Divyansh ojha" height="40" width="40" /></a>
 <a href = "mailto: divyanshojha2003@gmail.com"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" height="40" width="40" /></a>
 </p>
