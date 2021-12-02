@@ -59,7 +59,7 @@
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
-<a href="https://github.com/divyanshojha99"><img alt="Divyansh Ojha's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thesaravanakumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/divyanshojha99"><img alt="Divyansh Ojha's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=divyanshojha99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/divyanshojha99"><img alt="Divyansh Ojha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
 <hr>
