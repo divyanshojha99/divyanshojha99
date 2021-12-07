@@ -1,17 +1,16 @@
 <p align="center">
   <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="300"/>
 </p>
+
 <hr>
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
 <h3 align="center">CYBER Enthusiast || WEB & Software Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="astrohere" height="40" width="40" /></a>
 <a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" alt="Divyansh ojha" height="40" width="40" /></a>
+<a href="https://discord.com/channels/@theastro#4111" target="blank"><img align="center" src="https://preview.redd.it/28y7kc7ibn071.jpg?auto=webp&s=6596b815871153b2ebf16da416b698986c7b7743" alt="Divyansh ojha" height="40" width="40" /></a>  
 <a href="https://www.instagram.com/the_astro_fire/" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/instagram-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
 <a href="https://www.facebook.com/divyansh.ojha.4/" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/facebook-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/divyanshojha99" target="blank"><img align="center" src="https://github.com/divyanshojha99/PICBOX/blob/main/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-24.png" alt="Divyansh ojha" height="35" width="40" /></a>
-<a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://github.com/divyanshojha99/PICBOX/blob/main/devpost-icon.png?raw=true" alt="Divyansh ojha" height="45" width="45" /></a>
-<a href="https://leetcode.com/divyanshojha99/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Divyansh ojha" height="40" width="40" /></a>
 <a href = "mailto: divyanshojha2003@gmail.com"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" height="40" width="40" /></a>
 </p>
 </p>
@@ -32,6 +31,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshojha99&label=Profile%20views&color=B833FF&style=flat" alt="divyanshojha99" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***CHECK MY MAIN STUFFS💥***
+<p align="center">
+<br>
+<a href="https://www.hackerrank.com/divyanshojha99?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-PC878.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank" /></a>&nbsp;
+<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/devpost-4682B4.svg?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>&nbsp;
+<a href="https://leetcode.com/divyanshojha99/"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-leetcode-F4A460?style=for-the-badge&logo=leetcode&logoColor=white"/></a>  
+
+</p>
+
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
 
@@ -70,56 +79,27 @@
 | ![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=divyanshojha99&show_icons=true&theme=tokyonight) | ![Divyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshojha99&theme=radical) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshojha99&theme=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=divyanshojha99&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+  
+  
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
+<img src="https://media0.giphy.com/media/QWvra259h4LCvdJnxP/200w.webp?cid=ecf05e476pvkziq9x3bgzczk1485qk6hm5kjc6nv85vus8ao&rid=200w.webp&ct=g" align="center" width="30px">&nbsp;***Here a Joke For You...***
+  
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+
 
 
 <br>
   
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=forte&color=8B008B&size=30&lines=😊+😊+😊.....;Hey!+Feel+Free;to+Fork!;and+star⭐;this+Repo...;Thanks+for+visiting✌️)](https://git.io/typing-svg)
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
-<hr>
-<h2>🌼 &nbsp;THE HEAVEN 🌼 &nbsp</h2>
-<img src="https://media4.giphy.com/media/NPP4Z7wMIf0SA/200w.webp?cid=ecf05e47bqvy8c8gykkxxvsspy8snwt8iojjawhlbhq719un&rid=200w.webp&ct=g" height="200" width="500" />
 
 
 -----
-Credits: [Divyansh Ojha](https://github.com/divyanshojha99)
+### Credits--- <a href="https://github.com/divyanshojha99" target="blank"><img  align="center" src="https://github.com/divyanshojha99/PICBOX/blob/main/download%20(5).jpg?raw=true" alt="Divyansh ojha" height="45" width="60" /></a>
+
    
 
                     
