@@ -36,7 +36,7 @@
 <p align="center">
 <br>
 <a href="https://www.hackerrank.com/divyanshojha99?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-PC878.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/devpost-4682B4.svg?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>&nbsp;
+<a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/devpost-4682B4.svg?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>&nbsp;
 <a href="https://leetcode.com/divyanshojha99/"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-leetcode-F4A460?style=for-the-badge&logo=leetcode&logoColor=white"/></a>  
 
 </p>
@@ -93,7 +93,7 @@
 </p>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=forte&color=8B008B&size=30&lines=😊+😊+😊.....;Hey!+Feel+Free;to+Fork!;and+star⭐;this+Repo...;Thanks+for+visiting✌️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B008B&size=30&lines=😊+😊+😊.....;Hey!+Feel+Free;to+Fork!;and+star⭐;this+Repo...;Thanks+for+visiting✌️)](https://git.io/typing-svg)
 
 
 
