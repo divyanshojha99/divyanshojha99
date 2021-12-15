@@ -98,7 +98,7 @@
 
 
 -----
-### Credits--- <a href="https://github.com/divyanshojha99" target="blank"><img  align="center" src="https://github.com/divyanshojha99/PICBOX/blob/main/download%20(5).jpg?raw=true" alt="Divyansh ojha" height="45" width="60" /></a>
+### Credits--- <a href="https://github.com/divyanshojha99" target="blank"><img  align="center" src="https://i.ibb.co/g77vvbq/download-5.jpg" alt="Divyansh ojha" height="45" width="60" /></a>
 
    
 
