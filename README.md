@@ -1,5 +1,6 @@
+<hr>
 <p align="center">
-  <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="300"/>
+  <img src="https://i.ibb.co/P666qCC/1650477432620.jpg" width="438" height="586"/>
 </p>
 
 <hr>
@@ -93,7 +94,7 @@
 </p>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B008B&size=30&lines=😊+😊+😊.....;Hey!+Feel+Free;to+Fork!;and+star⭐;this+Repo...;Thanks+for+visiting✌️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C0C0C0&size=30&lines=😊+😊+😊.....;Hey!+Feel+Free;to+Fork!;and+star⭐;this+Repo...;Thanks+for+visiting✌️)](https://git.io/typing-svg)
 
 
 
