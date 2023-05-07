@@ -47,11 +47,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
 
 ✔ Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
-✔ I’m currently Developing **HDSSA** Hydrid Security Software <br>
-✔ I’m currently learning **Cloud Computing** & **Blender**<br>
-✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills **Open-Source contribution**<br>
+✔ I’m currently Developing **Socail Media Application** <br>
+✔ I’m currently learning **Cloud Computing**<br>
 ✔ Sometimes I write blog articles,Check out on <a href="https://astrofire40299681.wordpress.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/wordpress.png?raw=true" alt="Divyansh ojha" height="30" width="40" /></a><br>
-✔ Inner Fact : *When I feel boring or in stress,I start writing quotes and video editing,Check out that stuffs on my Instagram-page*<a href="https://www.instagram.com/beatz.felt/" target="blank"><img align="center" src="https://img.icons8.com/stickers/2x/instagram-new--v2.png" alt="Divyansh ojha" height="33" width="37" /></a><br>
+✔ Inner Fact :When I feel boring or in stress,I start writing Quotes.
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
