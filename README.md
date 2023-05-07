@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-  <img src="https://i.ibb.co/P666qCC/1650477432620.jpg" width="438" height="586"/>
+  <img src="https://i.ibb.co/cYWVv6b/1662574048516.jpg" width="700" height="450"/>
 </p>
 
 <hr>
