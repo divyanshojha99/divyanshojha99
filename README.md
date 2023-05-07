@@ -36,9 +36,9 @@
 <p align="center">
 <br>
 <a href="https://auth.geeksforgeeks.org/user/divyanshojha2003?hr_r=1"><img src="https://img.shields.io/badge/geeksforgeeks-4682B.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GFG" /></a>&nbsp;
-<a href="https://www.codechef.com/users/divyanshojha20"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-codechef-F4A460?style=for-the-badge&logo=CodeChef&logoColor=gray"/></a> 
+<a href="https://www.codechef.com/users/divyanshojha20"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-codechef-FFFFFF?style=for-the-badge&logo=CodeChef&logoColor=black"/></a> 
 <a href="https://leetcode.com/divyanshojha99/"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-leetcode-F4A460?style=for-the-badge&logo=leetcode&logoColor=black"/></a> 
-<a href="https://www.hackerrank.com/divyanshojha99?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-PC878.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank" /></a>&nbsp;
+<a href="https://www.hackerrank.com/divyanshojha99?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-90EE90.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank" /></a>&nbsp;
 <a href="https://devpost.com/divyanshojha1099?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/devpost-4682B4.svg?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>&nbsp;
 
 </p>
