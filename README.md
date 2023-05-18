@@ -36,7 +36,7 @@
 <p align="center">
 <br>
 <a href="https://auth.geeksforgeeks.org/user/divyanshojha2003?hr_r=1"><img src="https://img.shields.io/badge/geeksforgeeks-4682B.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GFG" /></a>&nbsp;
-<a href="https://www.codechef.com/users/divyanshojha20"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-codechef-FFFFFF?style=for-the-badge&logo=CodeChef&logoColor=black"/></a> 
+<a href="https://www.codechef.com/users/divyanshojha20"><img alt="Ko-fi" title="CodeChef" src="https://img.shields.io/badge/-codechef-D3D3D3?style=for-the-badge&logo=CodeChef&logoColor=black"/></a> 
 <a href="https://leetcode.com/divyanshojha99/"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-leetcode-F4A460?style=for-the-badge&logo=leetcode&logoColor=black"/></a> 
 <a href="https://www.hackerrank.com/divyanshojha99?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-90EE90.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank" /></a>&nbsp;
 
