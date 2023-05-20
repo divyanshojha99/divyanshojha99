@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-  <img src="https://i.ibb.co/cYWVv6b/1662574048516.jpg" width="700" height="450"/>
+  <img alt="GIF" src="https://gifdb.com/images/file/programming-test-typing-codes-0oynrheuykqxntba.gif" />
 </p>
 
 <hr>
