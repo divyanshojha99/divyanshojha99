@@ -47,10 +47,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
 
 ✔ Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
-✔ I’m currently Developing **Socail Media Application** <br>
-✔ I’m currently learning **Cloud Computing**<br>
+✔ I’m currently Developing **Ghost Cipher Based APP** <br>
+✔ I’m currently learning **Cloud Computing &Blockchain**<br>
 ✔ Sometimes I write blog articles,Check out on <a href="https://astrofire40299681.wordpress.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/wordpress.png?raw=true" alt="Divyansh ojha" height="30" width="40" /></a><br>
-✔ Inner Fact :When I feel boring or in stress,I start writing Quotes.
+✔ Inner Fact: When I feel bored or stressed, I start writing Quotes.
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
