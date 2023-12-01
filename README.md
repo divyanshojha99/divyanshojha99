@@ -35,6 +35,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***CHECK MY MAIN STUFFS💥***
 <p align="center">
 <br>
+<a href="https://www.codingninjas.com/studio/profile/astro"><img src="https://img.shields.io/badge/codingninjas-FFD580.svg?&style=for-the-badge&logo=codingninjas&logoColor=black" alt="Coding Ninjas" /></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/divyanshojha2003?hr_r=1"><img src="https://img.shields.io/badge/geeksforgeeks-4682B.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GFG" /></a>&nbsp;
 <a href="https://www.codechef.com/users/divyanshojha20"><img alt="Ko-fi" title="CodeChef" src="https://img.shields.io/badge/-codechef-D3D3D3?style=for-the-badge&logo=CodeChef&logoColor=black"/></a> 
 <a href="https://leetcode.com/divyanshojha99/"><img alt="Ko-fi" title="Leetcode" src="https://img.shields.io/badge/-leetcode-F4A460?style=for-the-badge&logo=leetcode&logoColor=black"/></a> 
