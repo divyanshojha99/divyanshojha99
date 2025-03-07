@@ -5,7 +5,7 @@
 
 <hr>
 <h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
-<h3 align="center">CYBER Enthusiast || WEB & Software Developer </h3>
+<h3 align="center"> WEB & Software Developer || Problem Solving </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="astrohere" height="40" width="40" /></a>
 <a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" alt="Divyansh ojha" height="40" width="40" /></a>
@@ -19,8 +19,8 @@
 
 <p align="center">
   <em>
-    Divyansh here, a <b>Pre Final Year</b> undergraduate from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>,BHOPAL(MP) </a>. <br>
-    A budding <b>Full-Stack Software Developer & CYBER Security analyst,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Divyansh here, a <b> Final Year</b> undergraduate from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>,BHOPAL(MP) </a>. <br>
+    A budding <b>Full-Stack Software Developer ,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="19px">&nbsp.
@@ -47,10 +47,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***LITTLE ABOUT MYSELF❤️***
 
 ✔ Abbreviation AA : ***ALPHA AQUARIUS***😉 <br>
-✔ I’m currently Developing **Ghost Cipher Based APP** <br>
-✔ I’m currently learning **Cloud Computing &Blockchain**<br>
-✔ Sometimes I write blog articles,Check out on <a href="https://astrofire40299681.wordpress.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/wordpress.png?raw=true" alt="Divyansh ojha" height="30" width="40" /></a><br>
-✔ Inner Fact: When I feel bored or stressed, I start writing Quotes.
+✔ I’m currently Developing **AI Agent's** <br>
+✔ I’m currently learning **Sentiment Analysis** <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
 
