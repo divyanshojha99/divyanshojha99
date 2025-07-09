@@ -1,11 +1,14 @@
 <hr>
 <p align="center">
-  <img alt="GIF" src="https://gifdb.com/images/file/programming-test-typing-codes-0oynrheuykqxntba.gif" />
+  <img alt="GIF" src="https://cdn.dribbble.com/userupload/33976764/file/original-b0b9939526b22e903102754acf37c0dc.gif" />
 </p>
 
 <hr>
-<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Divyansh Ojha</h1>
-<h3 align="center"> Software Developer </h3>
+<h1 align="center">AHOY! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Divyansh Ojha</h1>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Software%20Development%20Engineer-Amazon-ff9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge">
+</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/astrohere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="astrohere" height="40" width="40" /></a>
 <a href="https://twitter.com/the_astro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" alt="Divyansh ojha" height="40" width="40" /></a>
@@ -19,11 +22,11 @@
 
 <p align="center">
   <em>
-    Divyansh here, a <b> Final Year</b> postgraduate from <a href="https://vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>,BHOPAL(MP) </a>. <br>
-    A budding <b>Full-Stack Software Developer ,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="19px">&nbsp.
+    Divyansh here — a <b>Software Development Engineer at <a href="https://www.amazon.com/">Amazon</a></b> and a <b>Master's graduate</b> from 
+    <a href="https://vitbhopal.ac.in/"><b>Vellore Institute of Technology, Bhopal</b></a><br>
+    A passionate <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
+    always driven to <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">, 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="19px">, and make an impact.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>𝚂𝚙𝚘𝚘𝚗 𝚏𝚎𝚎𝚍𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚎 𝚕𝚘𝚗𝚐 𝚛𝚞𝚗 𝚝𝚎𝚊𝚌𝚑𝚎𝚜 𝚞𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚋𝚞𝚝 𝚝𝚑𝚎 𝚜𝚑𝚊𝚙𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚙𝚘𝚘𝚗..</b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
