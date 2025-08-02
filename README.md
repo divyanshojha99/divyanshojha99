@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-  <img alt="GIF" src="https://cdn.dribbble.com/userupload/33976764/file/original-b0b9939526b22e903102754acf37c0dc.gif" />
+  <img alt="Amazon GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVlNHZ0bHFsejZ4M3dsNm13czEyZHV2M2lodXBmeDlrOWI3ZThqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xl2lv9fUwThgqpfEwG/giphy.gif" />
 </p>
 
 <hr>
